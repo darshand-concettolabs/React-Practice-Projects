@@ -1,0 +1,43 @@
+.input{
+    border: 2px solid brown;
+    border-radius: 5px;
+    background-color: bisque;
+    padding: 5px 8px;
+    margin: 3px 20px;
+    font-size: 20px;
+}
+
+.fonts{
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.form{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.error-message{
+    color: red;
+}
+
+.btn{
+    margin: 3px 5px;
+    padding: 7px 12px;
+    background-color: green;
+    color: wheat;
+    font-size: 22px;
+    border-radius: 7px;
+    
+}
+
+.btn:hover{
+    
+    background-color: grey;
+    color: black;
+    font-size: 18px;
+    
+}

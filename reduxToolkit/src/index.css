@@ -1,0 +1,67 @@
+*{
+    font-family: cursive;
+}
+
+
+.main{
+text-align: center;
+
+}
+
+li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style:circle;
+    padding: 4px;
+    margin: 10px 15px;
+    font-size: 25px;
+   
+}
+
+.form-class{
+    text-align: center;
+}
+
+.btn{
+ 
+        background-color: grey; /* Green */
+        border: 2px solid grey;
+        color: black;
+        border-radius: 5px;
+        padding: 10px 18px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin-left: 20px;
+        font-size: 18px;
+      
+}
+
+input{
+    font-size: 20px;
+    padding: 10px 15px;
+}
+
+.btn-remove{
+    background-color: whitesmoke;
+    color:black;
+    font-weight: bolder;
+    padding : 10px 12px;
+    border-radius: 7px;
+    margin-left: 50px;
+}
+
+.btn-remove:hover{
+    background-color: lightseagreen;
+    padding : 10px 12px;
+    border-radius: 7px;
+    
+}
+
+
+.btn:hover{
+  background-color: black;
+  color: white;
+  transition: 0.3 ease-in ;
+}

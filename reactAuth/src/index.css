@@ -1,0 +1,35 @@
+.form-group{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+label{
+  margin-top: -5px;
+  margin-bottom: -10px;
+}
+
+input{
+  height: 25px;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: lightgray;
+  width: 50%;
+}
+
+button{
+  margin-top: 10px;
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  border: 2px solid grey;
+  background-color: black;
+  color: wheat;
+}
+
+button:hover{
+ background-color:  grey;
+ color: black;
+}
